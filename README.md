@@ -1,2 +1,1 @@
-# Planets-but-cooler
-sus
+# PRO-C147-Student-Activity
